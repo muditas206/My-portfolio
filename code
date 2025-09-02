@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport"content="width=device-width,initial-scale=1.0">
+   <title>My Portfolio</title>    
+</head>
+<body>
+
+  <!-- Header Section -->
+   <h1>Hi,I'm Mudita Sharma</h1>
+   <p>Aspiring Web Developer | 1st Year Student</p>
+   <hr>
+
+   <!-- About Section-->
+    <h2>About Me</h2>
+    <p>I am a first-year student learning web development. I enjoy creating projects and want tobuild amazing websites.</p>
+    <hr>
+    <!-- Skills Section-->
+     <h2>Skills</h2>
+     <ul>
+       <li>HTML</li>
+       <Li>CCS</Li>
+       <li>C Programming</li>
+       <li>Problem Solving</li>
+     </ul>
+     <hr>
+
+     <!--Project Section-->
+     <h2>Project</h2>
+     <ol>
+       <li>To-Do List App</li>
+       <li>Personal Blog Page</li>
+    </ol>
+    <hr>
+
+    <!-- Content Section-->
+     <h2>contact</h2>
+     <p>Email:yourname@email.com</p>
+     <p>Linkedin:limkedin.com/in/yourprofile</p>
+      
+     <hr>
+     <p> 2025 Mudita Shrama</p>
+
+   </body>
+   </html>  
